@@ -1,4 +1,5 @@
-<p  align="center"><a href="https://leetcode.com/mohitjaisal" ><img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/5d4d163659d264a66683ce1581e4be7786d32794/SvgStore/Competitive-Coding-Icons/leetcodecoloredsvg.svg"></img></a></p>
+<p  align="center"><img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/5d4d163659d264a66683ce1581e4be7786d32794/SvgStore/Competitive-Coding-Icons/leetcodecoloredsvg.svg"></img>
+</p>
 
 <h1  align="center"> LeetCode Solutions in C++ </h1>
 
